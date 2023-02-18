@@ -1,2 +1,2 @@
 # prompting
-name prompt
+both name prompt
